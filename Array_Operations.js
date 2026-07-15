@@ -51,3 +51,8 @@ e.reverse();
 console.log(e);
 console.log(e.includes(7.999));
 console.log(e.length);
+
+
+const my_arr = [10,20,30,[40,90,11,],80];
+const myy_arr = my_arr.flat(2);
+console.log(my_arr);
