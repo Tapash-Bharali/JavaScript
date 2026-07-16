@@ -24,3 +24,13 @@ delete user.emailId;
 console.log(user);
 
 
+delete user["home address"];
+console.log(user);
+
+user["home address"] = "Tezpur";
+console.log(user);
+
+
+user.age = 22;
+console.log(user);
+
