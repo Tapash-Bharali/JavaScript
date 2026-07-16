@@ -34,3 +34,7 @@ console.log(user);
 user.age = 22;
 console.log(user);
 
+console.log(Object.keys(user));
+console.log(Object.values(user));
+console.log(Object.entries(user));
+
