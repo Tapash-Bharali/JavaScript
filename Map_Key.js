@@ -10,3 +10,4 @@ m1.set({name: "Lola", age:20},false);
 console.log(m1);
 
 console.log(m1.get("Tapash"));
+console.log(m1.delete("Vanshika"));
