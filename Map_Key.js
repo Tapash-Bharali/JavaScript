@@ -11,3 +11,4 @@ console.log(m1);
 
 console.log(m1.get("Tapash"));
 console.log(m1.delete("Vanshika"));
+console.log(m1);
